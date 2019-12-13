@@ -1,0 +1,23 @@
+Libraries used in this program:
+jumpy
+keras
+tensorflow
+pandas
+matplotlib
+PIL
+tqdm
+sklearn
+
+This program is running on:
+AWS p2.xlarge
+OS: ubuntu 18.04
+
+Data from: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
+Please put the data as a tree as blows:
+data/
+	test/
+	train/
+saved_models/
+	filtered_files.npy
+filtered_files/
+strange_files/
